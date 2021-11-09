@@ -9,6 +9,8 @@
 -También tengo un canal de youtube llamado WiThErplays362
 -All the responses can be in english or in spanish
 -Todas las respuestas pueden ser en inglés o en español
+-Also all the responses I do can be wrong or not, but usually are wrong
+-También todas las respuestas que haga pueden ser correctas o incorrectas, pero normalmente son incorrectas
 
 
 <!---
