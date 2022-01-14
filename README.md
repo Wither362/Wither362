@@ -11,8 +11,7 @@
 -Todas las respuestas que me envíes pueden ser en **inglés** o en **español**
 - Also all the responses I do can be wrong or not, but usually are wrong.
 -También todas las respuestas que haga pueden ser correctas o incorrectas, pero normalmente son incorrectas.
--I have 12 years
--Tengo 12 años
+
 
 
 <!---
