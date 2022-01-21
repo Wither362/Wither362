@@ -15,8 +15,8 @@ body:
     attributes:
       label: "Are you in contact with my discord?"
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
     validations:
       required: true
 
