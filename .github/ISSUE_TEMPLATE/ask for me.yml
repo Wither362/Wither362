@@ -16,9 +16,11 @@ body:
       options:
        - "True"
        - "False"
-       
+    validations:
+      required: true
        
 
+  if spanish "false"
   - type: dropdown
     id: discord
     attributes:
