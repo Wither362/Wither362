@@ -20,7 +20,7 @@ body:
       required: true
        
 
-  if spanish "false"
+  if(spanish "false")
   - type: dropdown
     id: discord
     attributes:
