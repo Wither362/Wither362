@@ -9,6 +9,15 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: spanish
+    attributes:
+      label: "Are you spanish?"
+      options:
+       - "True"
+       - "False"
+       
+       
 
   - type: dropdown
     id: discord
