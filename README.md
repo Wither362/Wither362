@@ -13,6 +13,7 @@
 
 [![Wither362's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wither362&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
+Time I have spend coding: [![wakatime](https://wakatime.com/badge/user/794e428c-35bd-4d93-8f0f-8b7a40bdacd9.svg)](https://wakatime.com/@794e428c-35bd-4d93-8f0f-8b7a40bdacd9)
 <!---
 Wither362/Wither362 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
