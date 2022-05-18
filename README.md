@@ -1,5 +1,6 @@
 ## ¡Atención! Si quieres ver este archivo en **español**, pincha [`aquí`](https://github.com/Wither362/Wither362/blob/Espa%C3%B1ol/README.md)
 - Hi, I’m **@Wither362**.
+- I'm from Spain (so my original place is Spain and my language is spanish)
 - I speak **english** and **spanish**.
 - I'm a coder.
 - If you want to contact me you can email me or with discord. My username of discord is **Wither#978**.
