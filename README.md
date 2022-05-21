@@ -7,7 +7,7 @@
 - I speak **english** and **spanish**.
 - I'm a coder.
 - If you want to contact me you can email me or with discord. My username of discord is **Wither#978**.
-- Also I have a youtube channel called [WiThErplays362](https://www.youtube.com/channel/UCsVr-qBLxT0uSWH037BmlHw/videos) (take in mind that is in spanish/english)
+- Also I have a youtube channel called [WiThErplays362](https://www.youtube.com/channel/UCsVr-qBLxT0uSWH037BmlHw) (take in mind that is in spanish/english)
 - All the responses you do to me can be in **english** or in **spanish**
 - All the responses I do are in spanish or in english, but I usually like writing in english
 
