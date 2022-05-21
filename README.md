@@ -1,4 +1,5 @@
 ## ¡Atención! Si quieres ver este archivo en **español**, pincha [`aquí`](https://github.com/Wither362/Wither362/blob/Espa%C3%B1ol/README.md)
+<img src="https://komarev.com/ghpvc/?username=Wither362&label=Profile%20views&color=0e75b6&style=flat" alt="wither362" />
 - Hi, I’m **@Wither362**.
 - I'm from Spain (so my original place is Spain and my language is spanish)
 - I speak **english** and **spanish**.
