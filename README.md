@@ -12,6 +12,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wither362&theme=aura&langs_count=10&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
+(esos son con los que he estado programando con [GitHub](www.github.com), pero en realidad hay otros ***muchos **más*****)
+
+
+
+
 [![Wither362's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wither362&theme=aura&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
 Tiempo que he estado programando desde que tengo [wakatime](https://wakatime.com): [![wakatime](https://wakatime.com/badge/user/794e428c-35bd-4d93-8f0f-8b7a40bdacd9.svg)](https://wakatime.com/@794e428c-35bd-4d93-8f0f-8b7a40bdacd9)
