@@ -3,6 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=Wither362&label=Profile%20views&color=0e75b6&style=flat" alt="wither362" />
 
 - Hi, I’m **@Wither362**.
+- You can call me ***Wither*** or you can also call me ***362***
 - I speak **english** and **spanish**.
 - I'm a coder.
 - If you want to contact me you can email me or with discord. My username of discord is **Wither#978**.
