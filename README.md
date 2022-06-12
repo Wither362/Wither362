@@ -13,7 +13,7 @@
 
 ![Wither362's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wither362&show_icons=true&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wither362&theme=aura&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wither362&theme=aura&langs_count=10&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Wither362's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wither362&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
