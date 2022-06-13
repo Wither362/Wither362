@@ -3,7 +3,6 @@
 ## ¡Cambia tu "theme" para ver este archivo en otro color!
 - Hola soy **@Wither362**.
 - Me puedes llamar ***Wither*** o ***362*** o también ***Wither362***
-<!-- Soy de España (o sea que hablo español, específicamente castellano).-->
 - Hablo [**`inglés`**](https://github.com/Wither362/Wither362/tree/main) y [**`español`**.](https://github.com/Wither362/Wither362/tree/Espa%C3%B1ol).
 - Soy un ***pro***gramador.
 - Si quieres contactarme me puedes mandar un email o con discord. Mi nombre de discord es **`Wither#9781`**.
