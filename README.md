@@ -1,5 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=Wither362&label=Profile%20views&color=0e75b6&style=flat" alt="wither362" />
 
+## ¡Cambia tu "theme" para ver este archivo en otro color!
 - Hola soy **@Wither362**.
 - Me puedes llamar ***Wither*** o ***362*** o también ***Wither362***
 - Soy de España (o sea que hablo español, específicamente castellano).
@@ -9,16 +10,24 @@
 - También tengo un canal de youtube llamado [WiThErplays362](https://www.youtube.com/channel/UCsVr-qBLxT0uSWH037BmlHw).
 - Todas las cosas que me envíes pueden ser en **inglés** o en **español**, y las respuestas que enviaré según en que idioma me las hayas enviado, las responderé en un idioma u otro idioma, pero normalmente me gusta escribir en **inglés**.
 
-![Wither362's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wither362&show_icons=true&theme=aura&locale=es)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wither362&show_icons=true&theme=aura&locale=es">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Wither362&show_icons=true&theme=vue&locale=es">
+  <img alt="Show my github stats" src="https://github-readme-stats.vercel.app/api?username=Wither362&show_icons=true&theme=blue-green&locale=es">
+</picture><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wither362&theme=aura&langs_count=10&locale=es">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wither362&theme=vue&langs_count=10&locale=es">
+  <img alt="Show my languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wither362&theme=blue-green&langs_count=10&locale=es">
+</picture><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wither362&theme=aura&langs_count=10&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+(esos son con los lenguages que he estado programando con [GitHub](www.github.com), pero en realidad hay otros ***muchos **más*****)<br>
 
-(esos son con los que he estado programando con [GitHub](www.github.com), pero en realidad hay otros ***muchos **más*****)
-
-
-
-
-[![Wither362's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wither362&theme=aura&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Wither362&theme=aura&locale=es">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Wither362&theme=vue&locale=es">
+  <img alt="Show my wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Wither362&theme=blue-green&locale=es">
+</picture>
 
 Tiempo que he estado programando desde que tengo [wakatime](https://wakatime.com): [![wakatime](https://wakatime.com/badge/user/794e428c-35bd-4d93-8f0f-8b7a40bdacd9.svg)](https://wakatime.com/@794e428c-35bd-4d93-8f0f-8b7a40bdacd9)
 <!---
