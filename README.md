@@ -1,8 +1,8 @@
 ## ¡Atención! Si quieres ver este archivo en **español**, pincha [`aquí`](https://github.com/Wither362/Wither362/blob/Espa%C3%B1ol/README.md)
 
-<img src="https://komarev.com/ghpvc/?username=Wither362&label=Profile%20views&color=0e75b6&style=flat" alt="wither362" />
+<img src="https://komarev.com/ghpvc/?username=Wither362&label=Profile%20views&color=0e75b6&style=flat" alt="wither362's profile views" />
 
-## Change your theme for see this in another color! LITERALLY!
+## Change your [theme](https://github.com/settings/appearance) for see this in another color! LITERALLY!
 - Hi, I’m **@Wither362**.
 - You can call me ***Wither*** or you can also call me ***362***
 - I speak **english** and **spanish**.
