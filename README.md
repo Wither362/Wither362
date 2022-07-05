@@ -11,6 +11,7 @@
 - Also I have a youtube channel called [WiThErplays362](https://www.youtube.com/channel/UCsVr-qBLxT0uSWH037BmlHw) (take in mind that is in spanish/english)
 - All the responses you do to me can be in **english** or in **spanish**
 - All the responses I do are in spanish or in english, but I usually like writing in english
+- IM banned from psych engine, can someone help me?
 
 <br>
 
