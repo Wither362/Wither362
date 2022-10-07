@@ -6,7 +6,8 @@
 - Hi, I’m **@Wither362**.
 - You can call me ***Wither*** or you can also call me ***362***
 - I speak **english** and **spanish**.
-- I'm a coder.
+- I'm a haxe/scratch/crumble/AGK coder.
+- I can format or simplify files if you let me know what to format or simplify.
 - If you want to contact me you can email me or with discord. My username of discord is **Wither#978**.
 - Also I have a youtube channel called [WiThErplays362](https://www.youtube.com/channel/UCsVr-qBLxT0uSWH037BmlHw) (take in mind that is in spanish/english)
 - All the responses you do to me can be in **english** or in **spanish**
