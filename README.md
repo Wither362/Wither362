@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=Wither362&label=Profile%20views&color=0e75b6&style=flat" alt="wither362" />
+<img src="https://komarev.com/ghpvc/?username=Wither362&label=Número%20de%20visitas:&color=0e75b6&style=flat" alt="wither362" />
 
 ## ¡Cambia tu "theme" para ver este archivo en otro color!
 - Hola soy **@Wither362**.
