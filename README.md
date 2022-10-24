@@ -1,13 +1,13 @@
 ## ¡Atención! Si quieres ver este archivo en **español**, pincha [`aquí`](https://github.com/Wither362/Wither362/blob/Espa%C3%B1ol/README.md)
 
-<img src="https://komarev.com/ghpvc/?username=Wither362&label=Profile%20views&color=0e75b6&style=flat" alt="wither362's profile views" />
+<img src="https://komarev.com/ghpvc/?username=Wither362&label=My%20Profile%20views:&color=0e75b6&style=flat" alt="wither362's profile views" />
 
 ## Change your [theme](https://github.com/settings/appearance) for see this in another color! LITERALLY!
-- Hi, I’m **@Wither362**.
+- Hi, I’m **[@Wither362]()**.
 - You can call me ***Wither*** or you can also call me ***362***
 - I speak **english** and **spanish**.
-- I'm a [haxe](https://haxe.org/)/[scratch](https://scratch.mit.edu/)/[crumble]()/[AGK](https://www.appgamekit.com/) coder.
-- I can format or simplify files if you let me know what to format or simplify.
+- I'm a [haxe](https://haxe.org/)**/**[scratch](https://scratch.mit.edu/)**/**[crumble]()**/**[AGK](https://www.appgamekit.com/) coder.
+- I can format or simplify files if you let me know what do I have to format or simplify.
 - If you want to contact me you can email me or with discord. My username of discord is **Wither#978**.
 - Also I have a youtube channel called [WiThErplays362](https://www.youtube.com/channel/UCsVr-qBLxT0uSWH037BmlHw) (take in mind that is in spanish/english)
 - All the responses you do to me can be in **english** or in **spanish**
