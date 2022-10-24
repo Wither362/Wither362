@@ -34,4 +34,16 @@
 </picture>
 
 
+
 Time I have spend coding since I have [wakatime](https://www.wakatime.com): [![wakatime](https://wakatime.com/badge/user/794e428c-35bd-4d93-8f0f-8b7a40bdacd9.svg)](https://wakatime.com/@794e428c-35bd-4d93-8f0f-8b7a40bdacd9)
+
+Good repositories (or repositories I commited):
+| User  | Repository Name |
+| :-------------: | :-------------:                      |
+| [MemeHoovy](https://github.com/MemeHoovy)              | [MemeHoovy Engine](https://github.com/MemeHoovy/FNF-MemeHoovy-Engine-New)        |
+| [Theoyeah](https://github.com/Theoyeah)                | [Theoyeah Engine](https://github.com/Theoyeah/Theoyeah-Engine)                   |
+| [Shahar Marcus](https://github.com/ShaharMS)           | [texter](https://github.com/ShaharMS/texter)                                     |
+| [Joalor64GH](https://github.com/Joalor64GH)            | [Chocolate Engine](https://github.com/Joalor64GH/Chocolate-Engine)               |
+| [DEMOLITIONDON96](https://github.com/DEMOLITIONDON96)  | [Demolition Engine](https://github.com/DEMOLITIONDON96/Demolition-Engine)        |
+| [Gabriel2019r](https://github.com/Gabriel2019r)        | [Redstone Engine](https://github.com/Gabriel2019r/FNF-RedstoneEngine)            |
+| [BoloVEVO](https://github.com/BoloVEVO)                | [Kade Engine Public (bugfixes)](https://github.com/BoloVEVO/Kade-Engine-Public)  |
