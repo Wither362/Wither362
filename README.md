@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=Wither362&label=My%20Profile%20views:&color=0e75b6&style=flat" alt="wither362's profile views" />
 
 ## Change your [theme](https://github.com/settings/appearance) for see this in another color! LITERALLY!
-- Hi, I’m **[@Wither362]()**.
+- Hi, I’m **[@Wither362](https://github.com/Wither362)**.
 - You can call me ***Wither*** or you can also call me ***362***
 - I speak **english** and **spanish**.
 - I'm a [haxe](https://haxe.org/)**/**[scratch](https://scratch.mit.edu/)**/**[crumble]()**/**[AGK](https://www.appgamekit.com/) coder.
