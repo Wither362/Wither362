@@ -4,7 +4,8 @@
 
 ## Change your [theme](https://github.com/settings/appearance) for see this in another color! LITERALLY!
 
-![89BFC0BF-49BB-435E-8361-42C14AD76403](https://user-images.githubusercontent.com/93864752/210436576-46658267-45a2-4f9d-8bac-bebd90805a39.gif)
+![240CC1E4-1C6B-489D-925D-E625D5B90729](https://user-images.githubusercontent.com/93864752/210442457-2cafa404-bfbb-4633-8e44-932019850ab5.gif)
+
 
 - Hi, I’m **[@Wither362](https://github.com/Wither362)**.
 - You can call me ***Wither*** or you can also call me ***362***
