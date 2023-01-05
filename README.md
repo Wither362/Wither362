@@ -3,8 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=Wither362&label=My%20Profile%20views:&color=0e75b6&style=flat" alt="wither362's profile views" />
 
 ## Change your [theme](https://github.com/settings/appearance) for see this in another color! LITERALLY!
-
-![83F4659C-B5A6-4890-B239-44E1A3A94CF8](https://user-images.githubusercontent.com/93864752/210538806-f689a418-c423-4865-8626-a99777f8b0bf.gif)
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/93864752/210538806-f689a418-c423-4865-8626-a99777f8b0bf.gif" alt="One of my gifs" />
+</p>
 
 
 
