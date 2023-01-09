@@ -14,7 +14,7 @@
 - I speak **english** and **spanish**.
 - I'm a [haxe](https://haxe.org/)**/**[scratch](https://scratch.mit.edu/)**/**[crumble]()**/**[AGK](https://www.appgamekit.com/) coder.
 - I can format or simplify files if you let me know what do I have to format or simplify.
-- If you want to contact me you can email me or with discord. My username of discord is **Wither#978**.
+- If you want to contact me you can email me or with discord. My username of discord is **Wither#9781**.
 - Also I have a youtube channel called [WiThErplays362](https://www.youtube.com/channel/UCsVr-qBLxT0uSWH037BmlHw) (take in mind that is in spanish/english)
 - All the responses you do to me can be in **english** or in **spanish**
 - All the questions I do are in spanish or in english, but I usually like writing in english
