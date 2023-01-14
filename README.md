@@ -7,7 +7,7 @@
   <img align="center" src="https://user-images.githubusercontent.com/93864752/210538806-f689a418-c423-4865-8626-a99777f8b0bf.gif" alt="One of my gifs" />
 </p>
 
-
+![](https://raw.githubusercontent.com/Wither362/Wither362/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 - Hi, I’m **[@Wither362](https://github.com/Wither362)**.
 - You can call me ***Wither*** or you can also call me ***362***
