@@ -55,3 +55,4 @@ Good repositories (or repositories I commited):
 | [Gabriel2019r](https://github.com/Gabriel2019r)                                      | [Redstone Engine](https://github.com/Gabriel2019r/FNF-RedstoneEngine)                               |  |
 | [BoloVEVO](https://github.com/BoloVEVO)                                              | [Kade Engine Public (bugfixes)](https://github.com/BoloVEVO/Kade-Engine-Public)                     |  |
 | [miksel1](https://github.com/miksel1)<br>(but I'm the coder of literally everything) | [ScrewedEngine](https://github.com/miksel1/FNF-ScrewedEngine)                                       | An engine for Dave and Bambi lovers |
+| [fnbrco](https://github.com/fnbrco)                                                  | [translations](https://github.com/fnbrco/translations) |
