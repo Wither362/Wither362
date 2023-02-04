@@ -56,3 +56,7 @@ Good repositories (or repositories I commited):
 | [BoloVEVO](https://github.com/BoloVEVO)                                              | [Kade Engine Public (bugfixes)](https://github.com/BoloVEVO/Kade-Engine-Public)                     |  |
 | [miksel1](https://github.com/miksel1)<br>(but I'm the coder of literally everything) | [ScrewedEngine](https://github.com/miksel1/FNF-ScrewedEngine)                                       | An engine for Dave and Bambi lovers |
 | [fnbrco](https://github.com/fnbrco)                                                  | [translations](https://github.com/fnbrco/translations) |
+
+Cool People:
+| :---: |
+| [@MemeHovy](https://github.com/MemeHovy) |
