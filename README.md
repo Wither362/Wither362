@@ -58,5 +58,6 @@ Good repositories (or repositories I commited):
 | [fnbrco](https://github.com/fnbrco)                                                  | [translations](https://github.com/fnbrco/translations) |
 
 Cool People:
-| :---: |
-| [@MemeHovy](https://github.com/MemeHovy) |
+| Person | Why |
+| :---: | :---: |
+| [@MemeHovy](https://github.com/MemeHovy) | He's a cool guy, good Haxe coder, and one you can trust in |
