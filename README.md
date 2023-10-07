@@ -2,10 +2,10 @@
 
 ## ¡Cambia tu "theme" para ver este archivo en otro color!
 - Hola soy **@Wither362**.
-- Me puedes llamar ***Wither*** o ***362*** o también ***Wither362***
+- Me puedes llamar ***Wither*** o ***362*** o también ***Wither362***.
 - Hablo [**`inglés`**](https://github.com/Wither362/Wither362/tree/main) y [**`español`**](https://github.com/Wither362/Wither362/tree/Espa%C3%B1ol) (específicamente _castellano_).
 - Soy un programador.
-- Si quieres contactarme me puedes mandar un email o con discord. Mi nombre de discord es **`wither9781`**. <!--- También tengo un canal de youtube llamado [WiThErplays362](https://www.youtube.com/channel/UCsVr-qBLxT0uSWH037BmlHw).-->
+- Si quieres contactarme me puedes mandar un email o con discord. Pregúntame si quieres mi nombre de discord. <!--- También tengo un canal de youtube llamado [WiThErplays362](https://www.youtube.com/channel/UCsVr-qBLxT0uSWH037BmlHw).-->
 - Todas las cosas que me envíes pueden ser en **inglés** o en **español**, y las respuestas que enviaré según en que idioma me las hayas enviado, las responderé en un idioma u otro idioma, pero normalmente me gusta escribir en **inglés**.
 
 <picture>
