@@ -10,15 +10,15 @@
 ![](https://raw.githubusercontent.com/Wither362/Wither362/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 - Hi, I’m **[@Wither362](https://github.com/Wither362)**.
-- You can call me ***Wither*** or you can also call me ***362***
+- You can call me ***Wither*** or you can also call me ***362***.
 - I speak **english** and **spanish**.
-- I'm a [haxe](https://haxe.org/)**/**[scratch](https://scratch.mit.edu/)**/**[crumble]()**/**[AGK](https://www.appgamekit.com/) coder.
+- I'm a [haxe](https://haxe.org/) coder.
 - I can format or simplify files if you let me know what do I have to format or simplify.
-- If you want to contact me you can email me or with discord. My username of discord is **wither9781**.<!---- I also have a youtube channel called [WiThErplays362](https://www.youtube.com/channel/UCsVr-qBLxT0uSWH037BmlHw) (take in mind that is in spanish/english)-->
+- If you want to contact me you can email me or with discord. Ask me if you want my discord username before.<!---- I also have a youtube channel called [WiThErplays362](https://www.youtube.com/channel/UCsVr-qBLxT0uSWH037BmlHw) (take in mind that is in spanish/english)-->
 - I don't like copying people, so when I do it, I credit them. If it's not like this, it means I did it by myself.
-- All the responses you do to me can be in **english** or in **spanish**
-- All the questions I do are in spanish or in english, but I usually like writing in english
-- Im also at [Pixilart](https://www.pixilart.com/wither362), where I'm called as ***Mzkozoz***
+- All the responses you do to me can be in **english** or in **spanish**.
+- All the questions I do are in spanish or in english, but I usually like writing in english.
+<!-- Im also at [Pixilart](https://www.pixilart.com/wither362), where I'm called as ***Mzkozoz***-->
 
 <br>
 
