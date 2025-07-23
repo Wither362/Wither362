@@ -12,7 +12,7 @@
 - Hi, I’m **[@Wither362](https://github.com/Wither362)**.
 - You can call me ***Wither*** or you can also call me ***362***.
 - I speak **english** and **spanish**.
-- I'm a [haxe](https://haxe.org/) coder.
+- I'm a [haxe](https://haxe.org/) / C# coder.
 - I can format or simplify files if you let me know what do I have to format or simplify.
 - If you want to contact me you can email me or with discord. Ask me if you want my discord username before.<!---- I also have a youtube channel called [WiThErplays362](https://www.youtube.com/channel/UCsVr-qBLxT0uSWH037BmlHw) (take in mind that is in spanish/english)-->
 - I don't like copying people, so when I do it, I credit them. If it's not like this, it means I did it by myself.
